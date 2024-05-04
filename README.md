@@ -49,7 +49,7 @@ This will start the Streamlit app, where you can input your code for review and 
 
 ### GitHub Repo Reviewer (coming soon)
 
-###File Structure
+### File Structure
 - pages/: Directory containing additional pages for the app.
 - Repo_reviewer.py: Python script for the GitHub Repo Reviewer feature (coming soon).
 - .gitignore: File specifying which files and directories to ignore in version control.
@@ -59,6 +59,6 @@ This will start the Streamlit app, where you can input your code for review and 
 - requirements.txt: File listing the project's dependencies.
 
 
-###This project is licensed under the MIT License.
+### This project is licensed under the MIT License.
 
 Feel free to modify and customize the content according to your project's specific details and requirements. Let me know if you need further assistance!
